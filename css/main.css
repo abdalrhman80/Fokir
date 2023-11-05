@@ -168,7 +168,7 @@
 }
 
 .home_content_img {
-    background-image: url('images/slider-02.jpg');
+    background-image: url('../images/slider-02.jpg');
     background-size: cover;
     background-position: center center;
     height: 100vh;
